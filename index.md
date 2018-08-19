@@ -3,7 +3,7 @@
 ## 1. Overview
 IM Web Browser does not collect, store or transmit information about its users, nor usage of the application.
  
-Note that this application accesses third-party services, and use some third-partiy libraries. that third-party services and libray have your own Privacy Policy please Read links below.
+Note that this application accesses third-party services, and use some third-partiy libraries. that third-party services and libray have your own Privacy Policy please Read below links.
 
 
 ## QR scanner (use Permission Camera)
