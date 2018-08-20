@@ -1,7 +1,20 @@
 ## IM Web Browser and Internet Explorer Privacy Policy
 
 ## 1. Overview
-IM Web Browser does not collect, store or transmit information about its users, nor usage of the application.
+IM Web Browser does not collect, store or transmit information about its users. We does not send your private informations to our servers. All private informations like search History, Bookmarks & etc just saved in your device and we provide some features to earse your private informations.
+
+## Attention:
+as we mentioned we does not store your private information in our server, when you deleted your private information you could not recover it and it earsed forever.
+
+## Browsing History
+In order to make it easier for you to find and use web pages you have viewed, we have provided you with the ability to save your browsing history. When you visit the website, we will record the website link address, title, favicon and time of your visit to the website, etc. In the history page, you can quickly find the page records you have previously browsed; on the input page, based on the keywords you entered, we can quickly match the records of the pages you have previously viewed. We provide the function of deleting history records. You can delete history records one by one or delete them all at one time according to your needs.
+ 
+## Search History
+In order to facilitate you to view and use past search keywords, we provide search records. To do this, we need to save the keywords that you have searched for, to display them on the search page, so that you can click directly from the search page to finish searching without entering keywords again.
+  
+ ## Voice Search
+On mobile phones that support speech recognition, we provide you with voice search capabilities. We support speech recognition programs that evoke the system. The system’s speech recognition program recognizes your speech and converts it into text and returns it to us. We search for this text through the search function. We will not apply for permission throughout the entire process and will not collect and store any data related to your voice.
+ 
  
 Note that this application accesses third-party services, and use some third-partiy libraries. that third-party services and libray have your own Privacy Policy please Read below links.
 
