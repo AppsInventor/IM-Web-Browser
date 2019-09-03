@@ -38,3 +38,10 @@ https://firebase.google.com/policies/analytics/
 https://developers.facebook.com/docs/audience-network/policy/
 
 
+
+## Age limitation:
+this app not designed for under 13, if you are under 13 don't use this app.
+
+
+
+
